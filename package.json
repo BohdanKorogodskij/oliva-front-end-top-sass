@@ -23,6 +23,7 @@
   },
   "private": true,
   "dependencies": {
+    "@angular/cdk": "^20.2.4",
     "@angular/common": "^20.2.0",
     "@angular/compiler": "^20.2.0",
     "@angular/core": "^20.2.0",
@@ -39,6 +40,7 @@
     "jquery.animate-number": "^0.0.14",
     "magnific-popup": "^1.2.0",
     "ngx-owl-carousel": "^2.0.7",
+    "ngx-scrollbar": "^18.0.0",
     "rxjs": "~7.8.0",
     "sass": "^1.92.1",
     "tslib": "^2.3.0"
