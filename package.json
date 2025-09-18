@@ -36,6 +36,7 @@
     "bootstrap": "^5.3.8",
     "express": "^5.1.0",
     "jquery": "^3.7.1",
+    "ngx-owl-carousel": "^2.0.7",
     "rxjs": "~7.8.0",
     "sass": "^1.92.1",
     "tslib": "^2.3.0"
